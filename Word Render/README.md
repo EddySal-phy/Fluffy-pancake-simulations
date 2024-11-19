@@ -12,4 +12,4 @@ make
 ```
 This setup should handle downloading and building SFML automatically using CMake.
 
-Run the `ParticleTextAnimation`or `ParticleTextAnimation2`. 
+Run the `ParticleTextAnimation` or `ParticleTextAnimation2`. 
