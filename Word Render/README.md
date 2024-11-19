@@ -1,4 +1,4 @@
-# Install
+# Installation
 
 Ensure you have CMake installed.
 
