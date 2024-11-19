@@ -4,7 +4,7 @@ Ensure you have CMake installed.
 
 Open a terminal in the project directory and run:
 
-``bash
+```bash
 mkdir build
 cd build
 cmake ..
